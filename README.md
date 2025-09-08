@@ -26,6 +26,11 @@
 
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Estebant123t&layout=compact&theme=tokyonight)
 
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=esgarciag&show_icons=true&theme=tokyonight)  
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=esgarciag&layout=compact&theme=tokyonight)
+
+
 ---
 
 
