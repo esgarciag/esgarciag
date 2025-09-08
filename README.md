@@ -28,10 +28,5 @@
 
 ---
 
-## 📫 Contacto
-- 💼 LinkedIn: [Tu enlace aquí](https://linkedin.com/in/tuusuario)  
-- 📧 Correo: tuemail@ejemplo.com  
-
----
 
 ✨ *"El código no solo se escribe, también se piensa y se comparte."* ✨
