@@ -1,8 +1,8 @@
-# 👋 Hola, soy Esteban García
+# 👋 Hola, soy Esteban García Gaitán
 
 🎓 Estudio **Ciencias de la Computación** y estoy centrado en aprender:  
-- 🤖 **Inteligencia Artificial**  
-- 🔐 **Criptografía**  
+- 🤖 **Desarrollo de Inteligencia Artificial**  
+- 🔐 **Métodos de Criptografía**  
 - 🎮 **Desarrollo de Videojuegos**
 
 ---
@@ -16,8 +16,8 @@
 ---
 
 ## 📂 Repositorios destacados
-- [**Proyecto Ciudad (POO)**](https://github.com/Estebant123t/Proyecto_ciudad_POO) → Proyecto académico en Java aplicando Programación Orientada a Objetos.  
-- [**Repositorio destacado en perfil**](https://github.com/Estebant123t/Estebant123t) → README de presentación en GitHub.
+- [**Proyecto Ciudad (POO)**](https://github.com/Estebant123t/Proyecto_ciudad_POO)   
+- [**Repositorio de laboratorios implementados en Jupyter Notebooks.**](https://github.com/esgarciag/AlgorithmsUN2024II) 
 
 ---
 
