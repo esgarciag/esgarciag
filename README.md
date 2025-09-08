@@ -33,5 +33,3 @@
 
 ---
 
-
-✨ *"El código no solo se escribe, también se piensa y se comparte."* ✨
