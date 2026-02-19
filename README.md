@@ -18,7 +18,7 @@
 ## 📂 Repositorios destacados
 - [**Proyecto Ciudad (POO)**](https://github.com/Estebant123t/Proyecto_ciudad_POO)   
 - [**Repositorio de laboratorios implementados en Jupyter Notebooks.**](https://github.com/esgarciag/AlgorithmsUN2024II)
-- [**PocketVet**] (https://github.com/esbarrerass/PocketVet)
+- [**PocketVet**](https://github.com/esbarrerass/PocketVet)
 
 
 ---
